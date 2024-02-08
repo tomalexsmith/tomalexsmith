@@ -42,7 +42,7 @@ This repository is a collection of my projects, experiments, and contributions t
 
 If you have any questions, opportunities, or would like to connect, feel free to reach out to me through the following platforms:
 
-- Email: thomas.alexander.smith77@gmail.com
+- Email: thomas.smith@theinformationlab.co.uk
 - LinkedIn: www.linkedin.com/in/tomalexsmith77/
 
 ![Isometric Data Analysis](https://github.com/tomalexsmith/tomalexsmith/assets/95169394/bec7417e-b9eb-41dd-be1c-13e3d2a4d83c)
