@@ -1,24 +1,9 @@
-<!--
-**tomalexsmith/tomalexsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my GitHub repository! 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hello! 👋
-
-&nbsp;
 
 <img align="right" height="250px" src="https://media.licdn.com/dms/image/D4E22AQHeCGzQE_5acA/feedshare-shrink_800/0/1697209463356?e=1710374400&v=beta&t=ylGloFgTFli5n1T6TE3h8JhFGbU8LS-Z45V8nIkbr9c" />
 
-Welcome to my GitHub repository! My name's Tom, and I currently work as a data consultant at the Information Lab UK, where I specialise in Tableau and Alteryx. I hold a First-Class Bachelor's degree in Computer Science from Newcastle University, where I developed a strong foundation in software engineering principles and problem-solving skills. 
+My name's Tom, and I currently work as a data consultant at the Information Lab UK, where I specialise in Tableau and Alteryx. I hold a First-Class Bachelor's degree in Computer Science from Newcastle University, where I developed a strong foundation in software engineering principles and problem-solving skills. 
 
 This repository is a collection of my projects, experiments, and contributions to various open-source initiatives. Feel free to explore, collaborate, and provide feedback! 
 
