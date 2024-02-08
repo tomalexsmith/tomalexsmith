@@ -55,6 +55,14 @@ If you have any questions, opportunities, or would like to connect, feel free to
 | ![image](https://github.com/tomalexsmith/tomalexsmith/assets/95169394/df024ab7-4b7f-4d88-a69d-35ca54f5aa3d) | https://twitter.com/dsTomalexsmith |
 | ![image](https://github.com/tomalexsmith/tomalexsmith/assets/95169394/1961e7a5-25ab-4022-9844-d233352e75bb) | https://github.com/tomalexsmith | 
 
+&nbsp;
+
+&nbsp;
+
+![Isometric Data Analysis](https://github.com/tomalexsmith/tomalexsmith/assets/95169394/2b789a5a-ad95-4339-b2c5-dfbe82cd95a5)
+
+
+
 
 
   
