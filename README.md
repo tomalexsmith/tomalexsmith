@@ -44,3 +44,9 @@ If you have any questions, opportunities, or would like to connect, feel free to
 
 - Email: thomas.alexander.smith77@gmail.com
 - LinkedIn: www.linkedin.com/in/tomalexsmith77/
+
+![Isometric Data Analysis](https://github.com/tomalexsmith/tomalexsmith/assets/95169394/bec7417e-b9eb-41dd-be1c-13e3d2a4d83c)
+
+  
+
+
