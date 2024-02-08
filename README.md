@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <img align="right" height="250px" src="https://media.licdn.com/dms/image/D4E22AQHeCGzQE_5acA/feedshare-shrink_800/0/1697209463356?e=1710374400&v=beta&t=ylGloFgTFli5n1T6TE3h8JhFGbU8LS-Z45V8nIkbr9c" />
 
-Welcome to my GitHub repository! My name is Tom, and I currently work as a data consultant at the Information Lab UK, where I specialise in Tableau and Alteryx. I hold a First-Class Bachelor's degree in Computer Science from Newcastle University, where I developed a strong foundation in software engineering principles and problem-solving skills. 
+Welcome to my GitHub repository! My name's Tom, and I currently work as a data consultant at the Information Lab UK, where I specialise in Tableau and Alteryx. I hold a First-Class Bachelor's degree in Computer Science from Newcastle University, where I developed a strong foundation in software engineering principles and problem-solving skills. 
 
 This repository is a collection of my projects, experiments, and contributions to various open-source initiatives. Feel free to explore, collaborate, and provide feedback! 
 
@@ -44,8 +44,19 @@ If you have any questions, opportunities, or would like to connect, feel free to
 
 - Email: thomas.smith@theinformationlab.co.uk
 - LinkedIn: www.linkedin.com/in/tomalexsmith77/
+  
 
-![Isometric Data Analysis](https://github.com/tomalexsmith/tomalexsmith/assets/95169394/bec7417e-b9eb-41dd-be1c-13e3d2a4d83c)
+## 🔗 Links to my public profiles
+
+
+| Website      | Link |
+| :---: | :---: |
+| ![image](https://github.com/tomalexsmith/tomalexsmith/assets/95169394/a04794fd-dc83-41b3-b83c-3544207d31a1) | https://public.tableau.com/app/profile/thomas.smith1911/vizzes |
+| ![image](https://github.com/tomalexsmith/tomalexsmith/assets/95169394/ccf44719-df4f-48e8-9b39-92ef2e98bb45) | https://community.alteryx.com/t5/user/viewprofilepage/user-id/508620 |
+| ![image](https://github.com/tomalexsmith/tomalexsmith/assets/95169394/df024ab7-4b7f-4d88-a69d-35ca54f5aa3d) | https://twitter.com/dsTomalexsmith |
+| ![image](https://github.com/tomalexsmith/tomalexsmith/assets/95169394/1961e7a5-25ab-4022-9844-d233352e75bb) | https://github.com/tomalexsmith | 
+
+
 
   
 
